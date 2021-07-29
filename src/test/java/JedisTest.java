@@ -15,7 +15,7 @@ public class JedisTest {
         keys.forEach(System.out::println);
 
 
-        System.out.println("测试git");
+        System.out.println("在本地仓库添加测试信息");
     }
 
 }
