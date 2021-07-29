@@ -13,6 +13,8 @@ public class JedisTest {
 
         Set<String> keys = jedis.keys("*");
         keys.forEach(System.out::println);
+        System.out.println("在远程仓库添加信息");
+
 
 
         System.out.println("在本地仓库添加测试信息");
