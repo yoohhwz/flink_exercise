@@ -13,6 +13,9 @@ public class JedisTest {
 
         Set<String> keys = jedis.keys("*");
         keys.forEach(System.out::println);
+
+
+        System.out.println("测试git");
     }
 
 }
