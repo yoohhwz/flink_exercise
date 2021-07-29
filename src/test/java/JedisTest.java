@@ -21,6 +21,7 @@ public class JedisTest {
         System.out.println("在本地仓库添加测试信息");
 
         System.out.println("第二次在本地仓库添加测试信息");
+        System.out.println("第三次在本地仓库添加测试信息");
 
 
     }
